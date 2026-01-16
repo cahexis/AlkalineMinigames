@@ -1,5 +1,8 @@
 import discord
-BOT_TOKEN = "MTQ2MTQ0MDgxMjA4NzkwNjM1Nw.GLcykS.6ob0pk_H3hjQg46ZnqvVM5PV5LgJyQyKuRPgkg"
+from discord.ext import commands
+from discord import app_commands
+
+BOT_TOKEN = 'BOT TOKEN HERE'
 
 class Client(discord.Client):
     async def on_ready(self):
@@ -11,3 +14,4 @@ intents.message_content = True
 
 client = Client(intents=intents)
 client.run(BOT_TOKEN)
+
