@@ -1,6 +1,6 @@
 # AlkalineMinigames
 Project made for resume. smiley face. <br>
 
-A bot that allows you to flip a coin, choosing between heads (the talking head emoji) or tails (the cat emoji). <br>
-Uses the discord.py library in order to allow it to function. <br>
-If you download this, you will need to setup the permissions and obtain your own bot token.
+This project is a little discord bot that allows you to flip a coin (speaking head emoji for heads, and cat emoji for tails). <br/>
+It uses the discord.py library/api wrapper for functionality. <br/>
+If you decide to use this, you will need to setup the bot's permissions and its own token.
