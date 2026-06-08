@@ -6,7 +6,6 @@ from discord.ext import commands
 from discord import app_commands
 
 
-Moneybet : int
 gif_link = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTAwd25zaWNvY2JjN2FianhneGQ0emU0NDU1MzlnMmNvaGZpdGJsMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SABvdsgeZrcu4SbdA6/giphy.gif"
 
 BOT_TOKEN = 'INSERT BOT TOKEN HERE'
